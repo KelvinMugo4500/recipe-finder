@@ -1,0 +1,39 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "image": "https://www.cookingclassy.com/wp-content/uploads/2020/10/spaghetti-carbonara-01-1024x1536.jpg",
+      "ingredients": ["Spaghetti", "Bacon", "Eggs", "Parmesan Cheese", "Black Pepper"],
+      "instructions": ["Cook spaghetti according to package instructions.", "Fry bacon until crispy.", "Whisk eggs and Parmesan cheese in a bowl.", "Drain spaghetti and toss with egg mixture.", "Add bacon and black pepper, serve immediately."]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Stir Fry",
+      "image": "https://www.budgetbytes.com/wp-content/uploads/2024/01/Chicken-Stir-Fry-V1-1152x1536.jpeg",
+      "ingredients": ["Chicken Breast", "Bell Peppers", "Broccoli", "Soy Sauce", "Garlic", "Ginger"],
+      "instructions": ["Cut chicken breast into strips and marinate with soy sauce, garlic, and ginger.", "Stir-fry chicken in a pan until cooked through.", "Add bell peppers and broccoli, cook until tender-crisp.", "Serve hot with rice or noodles."]
+    },
+    {
+      "id": 3,
+      "name": "Caprese Salad",
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/08/caprese-salad-recipe-691x1024.jpg",
+      "ingredients": ["Tomatoes", "Fresh Mozzarella", "Fresh Basil", "Extra Virgin Olive Oil", "Balsamic Vinegar", "Salt", "Pepper"],
+      "instructions": ["Slice tomatoes and fresh mozzarella.", "Arrange tomato and mozzarella slices on a plate.", "Top with fresh basil leaves.", "Drizzle with extra virgin olive oil and balsamic vinegar.", "Season with salt and pepper to taste."]
+    },
+    {
+      "id": 4,
+      "name": "Chocolate Chip Cookies",
+      "image": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg",
+      "ingredients": ["All-Purpose Flour", "Butter", "Brown Sugar", "Granulated Sugar", "Eggs", "Vanilla Extract", "Baking Soda", "Salt", "Chocolate Chips"],
+      "instructions": ["Preheat oven to 350°F (175°C).", "Cream together butter, brown sugar, and granulated sugar.", "Add eggs and vanilla extract, mix until well combined.", "In a separate bowl, combine flour, baking soda, and salt.", "Gradually add dry ingredients to the wet mixture.", "Stir in chocolate chips.", "Drop spoonfuls of dough onto a baking sheet.", "Bake for 8-10 minutes or until golden brown."]
+    },
+    {
+      "id": 5,
+      "name": "Vegetable Soup",
+      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2014/10/homemade-vegetable-soup-654x1024.jpg",
+      "ingredients": ["Carrots", "Celery", "Onion", "Potatoes", "Tomatoes", "Vegetable Broth", "Bay Leaves", "Thyme", "Salt", "Pepper"],
+      "instructions": ["Chop carrots, celery, onion, and potatoes.", "Sautee vegetables in a pot until tender.", "Add diced tomatoes, vegetable broth, bay leaves, and thyme.", "Season with salt and pepper.", "Simmer for 20-30 minutes until flavors meld.", "Serve hot."]
+    }
+  ]
+}
