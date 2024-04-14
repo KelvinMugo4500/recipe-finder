@@ -1,39 +1,228 @@
 {
   "recipes": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Spaghetti Carbonara",
-      "image": "https://www.cookingclassy.com/wp-content/uploads/2020/10/spaghetti-carbonara-01-1024x1536.jpg",
-      "ingredients": ["Spaghetti", "Bacon", "Eggs", "Parmesan Cheese", "Black Pepper"],
-      "instructions": ["Cook spaghetti according to package instructions.", "Fry bacon until crispy.", "Whisk eggs and Parmesan cheese in a bowl.", "Drain spaghetti and toss with egg mixture.", "Add bacon and black pepper, serve immediately."]
+      "image": "https://s23209.pcdn.co/wp-content/uploads/2014/03/IMG_2622edit.jpg",
+      "ingredients": [
+        "Spaghetti",
+        "Eggs",
+        "Parmesan cheese",
+        "Pancetta",
+        "Black pepper"
+      ],
+      "instructions": "Cook spaghetti. Fry pancetta until crispy. Mix eggs, cheese, and pepper. Combine all ingredients."
     },
     {
-      "id": 2,
-      "name": "Chicken Stir Fry",
-      "image": "https://www.budgetbytes.com/wp-content/uploads/2024/01/Chicken-Stir-Fry-V1-1152x1536.jpeg",
-      "ingredients": ["Chicken Breast", "Bell Peppers", "Broccoli", "Soy Sauce", "Garlic", "Ginger"],
-      "instructions": ["Cut chicken breast into strips and marinate with soy sauce, garlic, and ginger.", "Stir-fry chicken in a pan until cooked through.", "Add bell peppers and broccoli, cook until tender-crisp.", "Serve hot with rice or noodles."]
+      "id": "2",
+      "name": "Chicken Tikka Masala",
+      "image": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg",
+      "ingredients": [
+        "Chicken",
+        "Yogurt",
+        "Tomatoes",
+        "Onion",
+        "Garam masala",
+        "Garlic",
+        "Ginger"
+      ],
+      "instructions": "Marinate chicken in yogurt and spices. Grill until cooked. Simmer in tomato sauce."
     },
     {
-      "id": 3,
-      "name": "Caprese Salad",
-      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/08/caprese-salad-recipe-691x1024.jpg",
-      "ingredients": ["Tomatoes", "Fresh Mozzarella", "Fresh Basil", "Extra Virgin Olive Oil", "Balsamic Vinegar", "Salt", "Pepper"],
-      "instructions": ["Slice tomatoes and fresh mozzarella.", "Arrange tomato and mozzarella slices on a plate.", "Top with fresh basil leaves.", "Drizzle with extra virgin olive oil and balsamic vinegar.", "Season with salt and pepper to taste."]
+      "id": "4",
+      "name": "Beef Tacos",
+      "image": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos-1120x840.jpg",
+      "ingredients": [
+        "Ground beef",
+        "Taco seasoning",
+        "Tortillas",
+        "Lettuce",
+        "Tomatoes",
+        "Cheese",
+        "Salsa"
+      ],
+      "instructions": "Cook beef with seasoning. Warm tortillas. Fill with beef and toppings. Enjoy!"
     },
     {
-      "id": 4,
+      "id": "5",
       "name": "Chocolate Chip Cookies",
       "image": "https://joyfoodsunshine.com/wp-content/uploads/2018/02/best-chocolate-chip-cookies-recipe-1.jpg",
-      "ingredients": ["All-Purpose Flour", "Butter", "Brown Sugar", "Granulated Sugar", "Eggs", "Vanilla Extract", "Baking Soda", "Salt", "Chocolate Chips"],
-      "instructions": ["Preheat oven to 350°F (175°C).", "Cream together butter, brown sugar, and granulated sugar.", "Add eggs and vanilla extract, mix until well combined.", "In a separate bowl, combine flour, baking soda, and salt.", "Gradually add dry ingredients to the wet mixture.", "Stir in chocolate chips.", "Drop spoonfuls of dough onto a baking sheet.", "Bake for 8-10 minutes or until golden brown."]
+      "ingredients": [
+        "Flour",
+        "Butter",
+        "Sugar",
+        "Chocolate chips",
+        "Egg",
+        "Vanilla extract"
+      ],
+      "instructions": "Mix ingredients. Drop spoonfuls onto baking sheet. Bake until golden brown."
     },
     {
-      "id": 5,
-      "name": "Vegetable Soup",
-      "image": "https://cdn.loveandlemons.com/wp-content/uploads/2014/10/homemade-vegetable-soup-654x1024.jpg",
-      "ingredients": ["Carrots", "Celery", "Onion", "Potatoes", "Tomatoes", "Vegetable Broth", "Bay Leaves", "Thyme", "Salt", "Pepper"],
-      "instructions": ["Chop carrots, celery, onion, and potatoes.", "Sautee vegetables in a pot until tender.", "Add diced tomatoes, vegetable broth, bay leaves, and thyme.", "Season with salt and pepper.", "Simmer for 20-30 minutes until flavors meld.", "Serve hot."]
+      "id": "6",
+      "name": "Vegetable Stir-Fry",
+      "image": "https://therecipecritic.com/wp-content/uploads/2019/08/vegetable_stir_fry.jpg",
+      "ingredients": [
+        "Broccoli",
+        "Bell peppers",
+        "Carrots",
+        "Snap peas",
+        "Soy sauce",
+        "Ginger",
+        "Garlic"
+      ],
+      "instructions": "Stir-fry vegetables in a hot pan. Add sauce and cook until tender."
+    },
+    {
+      "id": "7",
+      "name": "Margarita Pizza",
+      "image": "https://cookieandkate.com/images/2021/07/margherita-pizza-recipe-1-2-768x1155.jpg",
+      "ingredients": [
+        "Pizza dough",
+        "Tomatoes",
+        "Fresh mozzarella",
+        "Basil",
+        "Olive oil"
+      ],
+      "instructions": "Roll out dough. Top with sauce, cheese, and basil. Bake until crust is golden and cheese is bubbly."
+    },
+    {
+      "id": "7196",
+      "name": "Caesar Salad",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Caesar_salad_%282%29.jpg/1280px-Caesar_salad_%282%29.jpg",
+      "ingredients": [
+        "Romaine lettuce",
+        " Croutons",
+        " Parmesan cheese",
+        " Caesar dressing"
+      ],
+      "instructions": "Toss lettuce with dressing. Add croutons and cheese. Serve immediately."
+    },
+    {
+      "id": "ad7c",
+      "name": "Grilled Cheese Sandwich",
+      "image": "https://www.recipetineats.com/wp-content/uploads/2023/07/Grilled-Cheese-sandwich-photo-main.jpg",
+      "ingredients": [
+        "Bread",
+        " Cheese (e.g.",
+        " cheddar",
+        " American)",
+        " Butter"
+      ],
+      "instructions": "Butter bread slices on one side. Place cheese between slices, buttered sides out. Grill until bread is toasted and cheese is melted."
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "recipeId": 1,
+      "text": "Delicious recipe!"
+    },
+    {
+      "id": "2",
+      "recipeId": 1,
+      "text": "I love spaghetti!"
+    },
+    {
+      "id": "3",
+      "recipeId": 2,
+      "text": "Amazing flavor!"
+    },
+    {
+      "id": "4",
+      "recipeId": 3,
+      "text": "Simple yet tasty salad!"
+    },
+    {
+      "id": "5",
+      "recipeId": 4,
+      "text": "Best tacos ever!"
+    },
+    {
+      "id": "6",
+      "recipeId": 5,
+      "text": "These cookies are addictive!"
+    },
+    {
+      "id": "7",
+      "recipeId": 6,
+      "text": "Healthy and delicious stir-fry!"
+    },
+    {
+      "id": "9828",
+      "recipeId": "6",
+      "text": "nice"
+    },
+    {
+      "id": "c257",
+      "recipeId": "1",
+      "text": "Great"
+    },
+    {
+      "id": "5765",
+      "recipeId": "7",
+      "text": "great"
+    },
+    {
+      "id": "538a",
+      "recipeId": "7",
+      "text": "fresh"
+    },
+    {
+      "id": "16a5",
+      "recipeId": null,
+      "text": "Spicy!"
+    },
+    {
+      "id": "5e67",
+      "recipeId": "2",
+      "text": "fabulous"
+    },
+    {
+      "id": "35a1",
+      "recipeId": "ad7c",
+      "text": "The ultimate cheese toastie!"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "1",
+      "email": "example1@example.com"
+    },
+    {
+      "id": "2",
+      "email": "example2@example.com"
+    },
+    {
+      "id": "3",
+      "email": "example3@example.com"
+    },
+    {
+      "id": "4",
+      "email": "example4@example.com"
+    },
+    {
+      "id": "5",
+      "email": "example5@example.com"
+    },
+    {
+      "id": "6",
+      "email": "example6@example.com"
+    },
+    {
+      "id": "7",
+      "email": "example7@example.com"
+    },
+    {
+      "id": "d4cf",
+      "email": "kelvin@23.gmail.com"
+    },
+    {
+      "id": "e956",
+      "email": "kim23@gmail.com"
+    },
+    {
+      "id": "a63d",
+      "email": "jim@23.gmail.com"
     }
   ]
 }
