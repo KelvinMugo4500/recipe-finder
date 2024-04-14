@@ -1,10 +1,8 @@
-/* Your CSS styles here */
-
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #e0e0e0;
+  background-color: #8B4513; /* Change background color to brown */
 }
 
 .container {
@@ -78,7 +76,7 @@ button {
 }
 
 .recipe {
-  background-color: #f9f9f9;
+  background-color: #F5F5DC; /* Change background color to light beige */
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 8px;
@@ -88,6 +86,12 @@ button {
 .recipe h2 {
   font-size: 20px;
   color: #333;
+  margin-bottom: 10px;
+}
+
+.recipe-image {
+  max-width: 100%; /* Limit the maximum width of the image */
+  height: auto; /* Maintain aspect ratio */
   margin-bottom: 10px;
 }
 
